@@ -1,5 +1,4 @@
-<img width="1080" height="1920" alt="Screenshot_1781181306" src="https://github.com/user-attachments/assets/0dca5969-fc30-4542-8abd-8c82aa888260" /># WallVerse
-
+# WallVerse
 WallVerse is a modern wallpaper application that helps users discover, download, and organize beautiful wallpapers. Our mission is to provide high-quality backgrounds that make every device unique and visually stunning.
 
 
