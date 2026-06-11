@@ -1,17 +1,9 @@
-# wallpaperapp
+# WallVerse
 
-A new Flutter project.
+WallVerse is a modern wallpaper application that helps users discover, download, and organize beautiful wallpapers. Our mission is to provide high-quality backgrounds that make every device unique and visually stunning.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# ScreenShot
+<img width="1080" height="1920" alt="Screenshot_1781181309" src="https://github.com/user-attachments/assets/ea614a64-349b-4219-8706-18a760e44ffc" />
+<img width="1080" height="1920" alt="Screenshot_1781181313" src="https://github.com/user-attachments/assets/171e54b8-1828-4fe0-9a33-7c0f266d7f9a" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
